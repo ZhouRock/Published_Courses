@@ -1,7 +1,8 @@
 # Published_Courses
-记录我在MOOCs(大规模开放在线课程)上发布的教学课程
+## 这是我在互联网上发布的教学课程(目前只在51cto上发布)
 
 <UNIX环境高级编程> 视频课程(持续发布中)
+！[MD](https://img3.doubanio.com/view/subject/l/public/s4436543.jpg)
 - 入门和学习实验环境搭建
 - 文件IO和标准IO
 - 文件和目录
